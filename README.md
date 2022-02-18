@@ -64,18 +64,18 @@ or choose New from the context menu of the selection and then choose the file ty
  
 
 Part 2: 
-**Branch** - In git this is a new/separate version of the main repository.
-**Clone** - is a full copy of a repository
-**Commit** - saving changes.
-**Fetch** - Shows all the changes on Git and Github
-**GIT** - A version control system that can be accessed in your terminal
-**Github** - a host of sourcecode that uses git
-**Merge** - combining/forking branches
-**Merge Conflict** - An issue preventing merge
-**Push** - A command that uploads from local to remote
-**Pull** - A combo of fetch and merge: command that downloads from remote to local
-**Remote** - The repository you have on github or you have access to remotely
-**Repository** - A file storage place for all of your files
+1. **Branch** - In git this is a new/separate version of the main repository.
+2. **Clone** - is a full copy of a repository
+3.  **Commit** - saving changes.
+4.  **Fetch** - Shows all the changes on Git and Github
+5.  **GIT** - A version control system that can be accessed in your terminal
+6.  **Github** - a host of sourcecode that uses git
+7.  **Merge** - combining/forking branches
+8.  **Merge Conflict** - An issue preventing merge
+9.  **Push** - A command that uploads from local to remote
+10. **Pull** - A combo of fetch and merge: command that downloads from remote to local
+11. **Remote** - The repository you have on github or you have access to remotely
+12. **Repository** - A file storage place for all of your files
 
 
 Resources:
@@ -83,6 +83,5 @@ Resources:
 2. https://www.w3schools.com/ (Definitions)
 3. https://njit.instructure.com/courses/21542/files/3171367?module_item_id=688095
 4. https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_user_interface_overview
-5. l
 
 
